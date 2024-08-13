@@ -21,6 +21,9 @@ body{
 .banner-hero-section{
     text-align: center;
 }
+.banner-hero-section p{
+opacity: 70%;
+}
 .btn{
     background-color: #0D1321;
     color: #FFFFFF;
@@ -36,3 +39,47 @@ body{
     color: #0D1321;
     font-size: 48px;
 }
+.web-devlopment-container{
+    width: 80%;
+    height: 1390px;
+    margin: 0 auto;
+    border: 1px solid #070159;
+    margin-top: 75px;
+    background-color: #FAFAFB;
+    border-radius: 10px;
+}
+.title-container{
+    
+    text-align: center;
+    margin-top: 75px;
+}
+.title-container h1{
+    font-size: 32px;
+}
+.title-container p{
+    font-size: 16px;
+    opacity: 70%;
+}
+.fast-layer{
+    width: 86%;
+    height: 335px;
+    margin: 0 auto;
+    margin-top: 45px;
+    display: flex;
+    background-color: white;
+}
+.leyer-text{
+    width: 450px;
+    height: 220px;
+    margin: 50px 40px;
+    color: #0D1321;
+    opacity: 70%;
+    
+}
+.leyer-image{
+    width: 270px;
+    height: 220px;
+    margin: 50px 40px;
+}
+
+
