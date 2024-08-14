@@ -81,5 +81,79 @@ opacity: 70%;
     height: 220px;
     margin: 50px 40px;
 }
-
-
+.inspiration-section{
+    width: 80%;
+    height: 750px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+.inspiration-content{
+    width: 80%;
+    height: 112px;
+    margin: 0 auto;
+    text-align: center;
+}
+.inspiration-content p{
+    opacity: 70%;
+}
+.inspiration-video{
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    border: 0.5px solid #0D1321;
+    border-radius: 10px;
+}
+.inspiration-youtube-video{
+    width: 930px;
+    height: 520px;
+    margin-top: 35px;
+    margin-left: 45px;
+    border-radius: 10px;
+}
+.current-target{
+    width: 80%;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+.target-content{
+    width: 80%;
+    height: 112px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.target-name{
+    width: 330px;
+    height: 290px;
+    margin-top: 40px;
+    margin-right: 15px;
+    border-radius: 5px;
+    background-color: #facabe42;
+}
+.name-text{
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.target-name2{
+    width: 330px;
+    height: 290px;
+    margin-top: 40px;
+    margin-right: 15px;
+    border-radius: 5px;
+    background-color: #97b7f815;
+}
+.target-name3{
+    width: 330px;
+    height: 290px;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: #f5ecb170;
+}
+.all-name{
+    display: flex;
+}
+.current-target p {
+opacity: 70%;
+}
