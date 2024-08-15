@@ -157,3 +157,66 @@ opacity: 70%;
 .current-target p {
 opacity: 70%;
 }
+.support-section{
+    width: 80%;
+    height: 310px;
+    margin: 0 auto;;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    margin-top: 45px;
+}
+.support-content{
+    width: 60%;
+    height: 100px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    text-align: center;
+}
+.submit-content{
+    margin-top: 30px;
+    text-align: center;
+}
+.submit-content input{
+    width: 545px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.submit-content button{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFFFF;
+    font-size: 18px;
+}
+.submit-position{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.support-content p{
+    opacity: 70%;
+}
+.footer-section{
+    width: 100%;
+    height: 100px;
+    margin-top: 60px;
+    border-radius: 10px 10px 0 0;
+    background-color: #e9e6e6a8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-section p{
+    margin-left: 100px;
+    margin-right: ;
+}
+.social-media{
+    margin-right: 100px;
+}
